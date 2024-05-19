@@ -11,5 +11,5 @@ public class SumCalculator {
         }
         return result;
     }
-    int someChanges;
+    int someChanges2;
 }
