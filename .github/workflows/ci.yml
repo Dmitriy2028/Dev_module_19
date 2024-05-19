@@ -1,8 +1,9 @@
-name: Java CI
+name: Dev_module_19
 
 on:
   pull_request:
-    branches: [ main ]
+    branches:
+      - main
 
 jobs:
   build:
